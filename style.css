@@ -14,37 +14,37 @@ html {
 	padding: 0;
 	}
 body { 
-	font: 75% Freestyle Script, Freestyle Script;
+	font: 75% OCR A Std, OCR A Std;
 	line-height: 1.3;
 	color: #555753; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+	background: #fff url(https://robertsspaceindustries.com/rsi/static/images/store/shipdetail-space-bg.jpg); 
 	margin: 0; 
 	padding: 0;
-	font-size: 20px;
+	font-size: 15px;
 	}
 p { 
 	margin-top: 0; 
 	text-align: justify;
 	}
 h3 { 
-	font: Freestyle Script 1.4em Freestyle Script, Freestyle Script;
+	font: OCR A Std 1.4em OCR A Std, OCR A Std;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color: #7D775C;
+	color: #e6f6ff;
 	}
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #B7A5DF;
+	color: #e6f6ff;
 	}
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #D4CDDC;
+	color: #e6f6ff;
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #9685BA;
+	color: #e6f6ff;
 	}
 abbr {
 	border-bottom: none;
@@ -53,8 +53,8 @@ abbr {
 
 /* specific divs */
 .page-wrapper { 
-	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
-	padding: 0 175px 0 110px;  
+	background: url() no-repeat top left; 
+	padding: 0 275px 0 310px;  
 	margin: 0; 
 	position: relative;
 	}
@@ -65,11 +65,11 @@ abbr {
 	}
 
 header h1 { 
-	background: transparent url(http://csszengarden.com/001/h1.gif) no-repeat top left;
+	background: transparent url(http://cdn.wccftech.com/wp-content/uploads/2015/03/Star-Citizen-3.png) no-repeat top left;
 	margin-top: 10px;
 	display: block;
-	width: 219px;
-	height: 87px;
+	width: 300px;
+	height: 300px;
 	float: left;
 
 	text-indent: 100%;
@@ -77,11 +77,11 @@ header h1 {
 	overflow: hidden;
 	}
 header h2 { 
-	background: transparent url(http://csszengarden.com/001/h2.gif) no-repeat top left; 
+	background: transparent url(http://orbitaprohibida.com/wp-content/uploads/2014/08/fea197cac8_Originlogo-v3.png) no-repeat top left; 
 	margin-top: 58px; 
 	margin-bottom: 40px; 
-	width: 200px; 
-	height: 18px; 
+	width: 500px; 
+	height: 295px; 
 	float: right;
 
 	text-indent: 100%;
@@ -100,7 +100,7 @@ header {
 	float: left;
 	}
 .summary p {
-	font: Freestyle Script 1.1em/2.2 Freestyle Script; 
+	font: OCR A Std 1.1em/2.2 OCR A Std; 
 	text-align: center;
 	}
 
@@ -127,37 +127,37 @@ footer a:link, footer a:visited {
 	right: 0;
 	}
 .sidebar .wrapper { 
-	font: 10px Freestyle Script, Freestyle Script; 
-	background: transparent url(http://csszengarden.com/001/paper-bg.jpg) top left repeat-y; 
+	font: 10px OCR A Std, OCR A Std; 
+	background: transparent url(https://robertsspaceindustries.com/rsi/static/images/modal_download.png) top left repeat-y; 
 	padding: 10px; 
 	margin-top: 150px; 
 	width: 130px; 
 	}
 .sidebar h3.select { 
-	background: transparent url(http://csszengarden.com/001/h3.gif) no-repeat top left; 
+	background: transparent url(https://robertsspaceindustries.com/rsi/static/images/store/dropdown-arrow-v2.png) no-repeat top left; 
 	margin: 10px 0 5px 0; 
-	width: 97px; 
-	height: 16px; 
+	width: 37px; 
+	height: 32px; 
 
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
 	}
 .sidebar h3.archives { 
-	background: transparent url(http://csszengarden.com/001/h5.gif) no-repeat top left; 
+	background: transparent url(https://robertsspaceindustries.com/rsi/static/images/store/dropdown-arrow-v2.png) no-repeat top left; 
 	margin: 25px 0 5px 0; 
-	width:57px; 
-	height: 14px; 
+	width: 37px; 
+	height: 32px; 
 
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
 	}
 .sidebar h3.resources { 
-	background: transparent url(http://csszengarden.com/001/h6.gif) no-repeat top left; 
+	background: transparent url(https://robertsspaceindustries.com/rsi/static/images/store/dropdown-arrow-v2.png) no-repeat top left; 
 	margin: 25px 0 5px 0; 
-	width:63px; 
-	height: 10px; 
+	width: 37px; 
+	height: 32px; 
 
 	text-indent: 100%;
 	white-space: nowrap;
@@ -171,18 +171,18 @@ footer a:link, footer a:visited {
 	}
 .sidebar li {
 	line-height: 1.3em; 
-	background: transparent url(http://csszengarden.com/001/cr1.gif) no-repeat top center; 
+	background: transparent url() no-repeat top center; 
 	display: block; 
 	padding-top: 5px; 
 	margin-bottom: 5px;
 	list-style-type: none;
-	font-size: 16px;
+	font-size: 12px;
 	}
 .sidebar li a:link {
-	color: #988F5E;
+	color: #e6f6ff;
 	}
 .sidebar li a:visited {
-	color: #B3AE94;
+	color: #e6f6ff;
 	}
 
 
